@@ -4,3 +4,7 @@ Console.WriteLine("2. Furniture");
 Console.WriteLine("3. Kitchen Utensils");
 Console.WriteLine("4. Water Tank");
 Console.WriteLine("5. TV");
+
+
+
+Console.WriteLine("7. Microwave");
