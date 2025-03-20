@@ -8,3 +8,4 @@ Console.WriteLine("5. TV");
 
 
 Console.WriteLine("6. Refrigerator");
+Console.WriteLine("7. Microwave");
