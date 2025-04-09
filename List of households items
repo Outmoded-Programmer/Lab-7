@@ -7,4 +7,5 @@ Console.WriteLine("5. Fans");
 
 
 
+Console.WriteLine("6. Washing Machine");
 Console.WriteLine("7. Doors");
